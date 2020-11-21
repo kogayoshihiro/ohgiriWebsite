@@ -31,7 +31,7 @@
 /odai/<odai_id>?p=page
 お題詳細
 
-/ranking/two_days&p=page
+/ranking/two_days?p=page&t=datetime
 2日間ランキング
 
 
