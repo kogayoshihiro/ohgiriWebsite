@@ -70,6 +70,9 @@
 /admin/odai_released?p=page
 投稿済みお題
 
+/admin/odai_released/<odai_id>/delete
+投稿済みお題削除
+
 /admin/raw_boke?p=page
 未承認ボケ一覧
 
